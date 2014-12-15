@@ -47,32 +47,6 @@ module.exports.routes = {
   * for configuration options and examples.                                  *
   *                                                                          *
   ***************************************************************************/
-  'get /user': {
-    controller: 'user',
-    action: "findall",
-//    view: 'user/list'
-  },
-  'get /user/new': {
-    controller: 'user',
-    action: "new",
-  },
-  'get /user/:userName': {
-    controller: 'user',
-    action: "find",
-  },
-  'post /user': {
-    controller: 'user',
-    action: "create",
-  },
-  'put /user': {
-    controller: 'user',
-    action: "update",
-  },
-  'delete /user': {
-    controller: 'user',
-    action: "delete",
-  },
-
 
 
  'get /contact': {
