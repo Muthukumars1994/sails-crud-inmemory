@@ -88,6 +88,10 @@ module.exports.routes = {
     controller: 'contact',
     action: "showFind",
   },
+  'get /contact/reset': {
+    controller: 'contact',
+    action: "resetData",
+  },
   'get /contact/:pid': {
     controller: 'contact',
     action: "find",
