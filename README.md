@@ -19,6 +19,8 @@ Try it out
 
 Screenshots
 ------------
+#####Home Screen 
+![Home Screen](https://raw.githubusercontent.com/sameerean/sails-mongo-crud/master/assets/images/docs/app-home.png "Home Screen")
 #####List of Users 
 ![List of Users](https://raw.githubusercontent.com/sameerean/sails-mongo-crud/master/assets/images/docs/user-list.png "List of Users")
 #####User Edit Screen 
